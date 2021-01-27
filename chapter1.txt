@@ -1,2 +1,7 @@
 chapter 1
+<<<<<<< HEAD
  Edited with branch test
+=======
+
+From main or master branch
+>>>>>>> master
